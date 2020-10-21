@@ -1,0 +1,17 @@
+li.list-group-item.active a {
+    color: #fff!important;
+    text-decoration:none!important;
+    list-style: none!important;
+}
+li.list-group-item a:hover {
+    text-decoration:none!important;
+    list-style: none!important;
+    color:#fff!important;
+}
+li.list-group-item:hover{
+    background: #37506b!important;
+
+  }
+  li.list-group-item a{
+    color:#000!important;
+  }
